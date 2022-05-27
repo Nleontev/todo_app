@@ -1,0 +1,19 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "Base Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nleontev/todo_app.git"
+  },
+  "author": "Nikita Leontiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nleontev/todo_app/issues"
+  },
+  "homepage": "https://github.com/Nleontev/todo_app#readme"
+}
